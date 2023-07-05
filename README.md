@@ -1,8 +1,7 @@
 # TicketyBus
 
 ## Tim Developer
-1. Kurnia Cahya Febryanto (5025201073)
-2. Rere Arga Dewanata (5025201078)
+1. Fachrendy Zulfikar Abdillah (5025201018)
 
 ## Deskripsi Aplikasi
 
